@@ -1,0 +1,42 @@
+body {
+  background-color: coral;
+  font-family: "Nunito", sans-serif;
+  color: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  min-height: 100vh;
+  height: auto;
+  text-align: center;
+}
+
+button {
+  background-color: royalblue;
+  color: white;
+  padding: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  border: none;
+  font-size: 1.3rem;
+  cursor: pointer;
+  font-weight: bold;
+  /* display: flex; */
+  /* flex-direction: center; */
+  /* justify-content: center; */
+}
+
+input {
+  /* border: none;
+  padding: 18px;
+  margin: 10px; */
+
+  width: 200px;
+  height: 40px;
+  border: none;
+  /* background-color: gray; */
+  /* border: 2px solid #113a5d; */
+  margin: 0px 10px;
+  padding-left: 6px;
+  font-size: 20px;
+}
